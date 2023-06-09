@@ -14,7 +14,7 @@ The key trait of the bot is a steering wheels system. As soon as there is no dif
 
 ## Materials and components
 * Chasis and wheels are 3D-printed (STLs are in the repo)
-* 5x bearings 10x5x4
+* 7x bearings 10x5x4
 * 2x DC motors
 * H-bridge (e.g. Amperka Motor Shield)
 * Servo
